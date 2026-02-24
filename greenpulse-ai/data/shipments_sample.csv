@@ -1,0 +1,7 @@
+shipment_id,vehicle_id,status,origin,destination,timestamp
+S-201,V-101,in_transit,New York,Boston,2025-01-01T10:00:00
+S-202,V-102,in_transit,Boston,Philadelphia,2025-01-01T10:00:00
+S-203,V-103,delayed,Philadelphia,Newark,2025-01-01T10:00:00
+S-204,V-104,loading,Newark,Hartford,2025-01-01T10:00:00
+S-205,V-105,in_transit,Hartford,Baltimore,2025-01-01T10:00:00
+S-206,V-106,in_transit,Baltimore,New York,2025-01-01T10:00:00

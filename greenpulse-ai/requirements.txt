@@ -1,0 +1,19 @@
+# Core
+pathway>=0.8.0
+pathway[xpack-llm]>=0.8.0
+pathway[xpack-llm-docs]>=0.8.0
+
+# API
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+
+# AI/ML
+openai>=1.6.0
+sentence-transformers>=2.2.0
+numpy>=1.24.0
+
+# Utilities
+python-dotenv>=1.0.0
+httpx>=0.25.0
+loguru>=0.7.0
